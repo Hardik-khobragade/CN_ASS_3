@@ -7,6 +7,7 @@
 Ping from `h3` to `h1`:
 ```bash
 h3 ping -c 3 h1
+```
 
 Ping from `h5` to `h7`:
 ```bash
